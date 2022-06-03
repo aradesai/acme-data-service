@@ -1,0 +1,18 @@
+Manifest-Version: 1.0
+Archiver-Version: Plexus Archiver
+Created-By: Apache Maven 3.0.5
+Bundle_ManifestVersion: 2
+Bundle_SymbolicName: com.acme.data.service
+Bundle_Vendor: Acme, Inc.
+Bundle_Version: 2.10.5
+Created_By: Apache Maven Bundle Plugin
+Built-By: Acme
+Build-Jdk: 1.11.0_51
+Permissions: all-permissions
+SHA-256-Digest: XatHlhiWAK3ArocdOcVPCS3ftOcokJNlUeRhKPTHUKs=
+Implementation_Title: acme-data-service
+Implementation_Vendor: Acme, Inc.
+Implementation_Vendor_Id: com.acme.cache.service
+Implementation_Version: 2.10.5
+License: Acme Software License, Version 2.0
+
