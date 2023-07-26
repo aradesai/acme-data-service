@@ -119,18 +119,6 @@
       <scope>runtime</scope>
     </dependency>
 
-    <dependency>
-      <groupId>com.acme.auth.service</groupId>
-      <artifactId>auth-service</artifactId>
-      <version>2.10.5</version>
-    </dependency>
-
-    <dependency>
-      <groupId>com.acme.cache.service</groupId>
-      <artifactId>cache-service</artifactId>
-      <version>2.10.5</version>
-    </dependency>
-
   </dependencies>
 
   <build>
