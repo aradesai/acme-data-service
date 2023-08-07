@@ -196,7 +196,6 @@
       <artifactId>spring-boot</artifactId>
       <version>1.5.4.RELEASE</version>
     </dependency>
-
   </dependencies>
   <build>
     <plugins>
